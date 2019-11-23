@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
         - name: 'Repository dispatch'
-          uses: defold/repository-dispatch@1.1.4
+          uses: defold/repository-dispatch@1.2.1
           with: 
             repo: 'staceb/PageswithSubmodule'
             token: '${{ secrets.TOKEN }}'
