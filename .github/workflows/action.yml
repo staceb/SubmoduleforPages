@@ -1,0 +1,17 @@
+name: Update Pages Site
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+        - name: 'Repository dispatch'
+          uses: defold/repository-dispatch@1.1.4
+          with: 
+            repo: 'staceb/PageswithSubmodule'
+            token: '${{ secrets.TOKEN }}'
+            user: 'staceb'
+            action: 'Update Pages Site'
+        
+  
