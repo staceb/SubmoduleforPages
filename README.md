@@ -1,5 +1,5 @@
 # SubmoduleforPages
 
 
-Submodule for GitHub Pages site at - 
+Submodule for GitHub Pages site at:        
 https://github.com/staceb/PageswithSubmodule
