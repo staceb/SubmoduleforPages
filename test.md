@@ -1,4 +1,4 @@
 ## Test file
 -------------------------
 
-Testing some stuff
+This page should display on the Pages site for https://github.com/staceb/SubmoduleforPages
