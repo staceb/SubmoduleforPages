@@ -1,4 +1,4 @@
-# SubmoduleforPages
+# SubmoduleforPages.
 
 
 Submodule for GitHub Pages site at:        
